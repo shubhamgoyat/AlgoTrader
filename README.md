@@ -1,1 +1,1 @@
-# LazyTrader
+# AlgoTrader
